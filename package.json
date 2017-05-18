@@ -1,0 +1,23 @@
+{
+  "name": "my-first-fb-graph-api-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Andrea Silvestri",
+  "license": "Apache-2.0",
+  "bugs": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-connect-proxy": "^0.2.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-preprocess": "^5.1.0",
+    "matchdep": "^1.0.1"
+  }
+}
